@@ -31,6 +31,6 @@
 ---
 ## Фреймворки 🎁
 
-https://img.shields.io/badge/-Django%20-%23801AE6
+[https://img.shields.io/badge/-Django%20-%23801AE6](https://img.shields.io/badge/-Django%20-%23801AE6)
 
 
