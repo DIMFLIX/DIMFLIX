@@ -9,7 +9,6 @@
 <b>Очень интересен процесс разработки, поэтому могу быть заинтересован больше Вас самих в Вашем же заказе :3</b>
 
 ---
-## Технологический стек 🛠
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="40" height="40"/>    
@@ -27,7 +26,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>
   
-  <div></div>
+  <div></div><br>
   
   <img src="https://img.shields.io/badge/-Django-%23801AE6"/>
   <img src="https://img.shields.io/badge/-Flask-%23801AE6"/>
@@ -49,3 +48,4 @@
   <img src="https://img.shields.io/badge/-Pillow-%23801AE6"/>
   <img src="https://img.shields.io/badge/-BeautifulSoup-%23801AE6"/>
 </div>
+---
