@@ -14,18 +14,30 @@ Click on one of the badges on top, and text me. I'll be happy to talk to you)
 
 ```javascript
 const DIMFLIX_SKILLS = {
-    pronouns: "He" | "Him",
-    code: ["Python", "JavaScript", "SQL"],
+    OS: ["Windows 11", "Arch Linux"],
+    languages: ["Python", "JavaScript", "SQL"],
     technologies: {
-        backend: ["Django", "Flask", "aiohttp"],
-        GUI: ["PyQT5 | PyQT6", "Pyside2 | Pyside6"]
-        bots: ["aiogram", "pyrogram"]
-        devOps: ["Docker🐳", "Nginx"],
-        databases: ["PostgreSQL | asyncpg", "MongoDB", "SQLite | aiosqlite"],
-        misc: ["selenium", "open-cv"]
+        backend: ["Django", "Flask", "aiohttp", "FastApi"],
+        GUI: ["PyQT5 | PyQT6", "Pyside2 | Pyside6"],
+        bots: ["aiogram", "pyrogram"],
+        devOps: ["Docker🐳", "Nginx", "Ngrok"],
+        databases: {
+            "PostgreSQL": ["asyncpg", "psycopg2"],
+            "MongoDB": "pymongo",
+            "SQLite": ["aiosqlite", "sqlite3"]
+        },
+        misc: ["asyncio", "BeautifulSoup", "vk_api", "selenium", "open-cv"]
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    funFact: "There are two ways to write error-free programs; only the third one works"
+    UI/UX: ["Photoshop", "Illustrator", "XD", "Figma"],
+    FactAboutMe: "I really love working as a programmer, and I fully devote myself to this business.",
+    WhatICan: [
+        "building beautiful interfaces",
+        "building and managing the application architecture",
+        "Desktop or web application development",
+        "Project design",
+        "Setting up and operating servers",
+        "Data Analysis"
+    ],
 };
 ```
 
