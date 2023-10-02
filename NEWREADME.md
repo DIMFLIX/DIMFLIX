@@ -23,7 +23,7 @@ const DIMFLIX_SKILLS = {
         devOps: ["Docker🐳", "Nginx", "Ngrok"],
         databases: {
             "PostgreSQL": ["asyncpg", "psycopg2"],
-            "MongoDB": "pymongo",
+            "MongoDB": ["pymongo"],
             "SQLite": ["aiosqlite", "sqlite3"]
         },
         misc: ["asyncio", "BeautifulSoup", "vk_api", "selenium", "open-cv"]
