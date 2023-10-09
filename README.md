@@ -27,10 +27,12 @@ const DIMFLIX_SKILLS = {
             "MongoDB": ["pymongo"],
             "SQLite": ["aiosqlite", "sqlite3"]
         },
-        misc: ["asyncio", "BeautifulSoup", "vk_api", "selenium", "open-cv"]
+        misc: [
+            "asyncio", "BeautifulSoup", "vk_api",
+            "selenium", "open-cv"
+        ]
     },
     UI/UX: ["Photoshop", "Illustrator", "XD", "Figma"],
-    FactAboutMe: "I really love working as a programmer, and I fully devote myself to this business.",
     WhatICan: [
         "building beautiful interfaces",
         "building and managing the application architecture",
