@@ -43,3 +43,6 @@ const DIMFLIX_SKILLS = {
     ],
 };
 ```
+
+### Statistic
+<figure><embed src="https://wakatime.com/share/@7c5360ec-0d2e-4ee4-bdc5-dd32da7573a3/3002ac58-a423-4af7-a0fb-1c4d8a736618.svg"></embed></figure>
