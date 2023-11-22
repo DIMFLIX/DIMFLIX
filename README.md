@@ -45,4 +45,4 @@ const DIMFLIX_SKILLS = {
 ```
 
 ### Statistic
-<figure><embed src="https://wakatime.com/share/@7c5360ec-0d2e-4ee4-bdc5-dd32da7573a3/b4de3fa5-db54-4f56-8195-aad8c6941a0a.svg"></embed></figure>
+<img height="300px" alt="DIMFLIX's Top Languages WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=dimflix&theme=transparent&title_color=5acbe9&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact" /><br>
