@@ -45,4 +45,4 @@ const DIMFLIX_SKILLS = {
 ```
 
 ### Statistic
-<figure><embed src="https://wakatime.com/share/@7c5360ec-0d2e-4ee4-bdc5-dd32da7573a3/b4de3fa5-db54-4f56-8195-aad8c6941a0a.svg"></embed></figure>
+<figure width=500><embed src="https://wakatime.com/share/@7c5360ec-0d2e-4ee4-bdc5-dd32da7573a3/b4de3fa5-db54-4f56-8195-aad8c6941a0a.svg"></embed></figure>
