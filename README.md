@@ -20,9 +20,6 @@
     </a>
 </div>
 
-### 📫 Like to meet me?
-Click on one of the badges on top, and text me. I'll be happy to talk to you)
-
 ### 👻 A little more about me...  
 ```javascript
 const DIMFLIX = {
