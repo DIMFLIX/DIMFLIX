@@ -1,3 +1,5 @@
+<div class="tenor-gif-embed" data-postid="16908893" data-share-method="host" data-aspect-ratio="1.09589" data-width="100%"><a href="https://tenor.com/view/what-did-you-say-mochi-mochi-peach-cat-cute-twitching-ears-wagging-tail-gif-16908893">What Did You Say Mochi Mochi Peach Cat GIF</a>from <a href="https://tenor.com/search/what+did+you+say-gifs">What Did You Say GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 <h1> Greetings, wanderer! I'm DIMFLIX!</h1>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="270">
 
