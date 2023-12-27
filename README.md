@@ -1,6 +1,8 @@
 <div align="center">
-    <img align='center' width=300 src="https://github.com/DIMFLIX-OFFICIAL/DIMFLIX-OFFICIAL/blob/main/cat.gif?raw=true"/>    
-    <h2 align="center"> Greetings, wanderer! I'm DIMFLIX!</h2>
+    <img width=300 src="https://github.com/DIMFLIX-OFFICIAL/DIMFLIX-OFFICIAL/blob/main/cat.gif?raw=true"/>    
+    <br/>
+    <br/>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=BD73F7&center=true&vCenter=true&random=false&width=500&height=22&lines=Greetings%2C+wanderer!+I'm+DIMFLIX!" alt="Typing SVG" /></a>
 </div>
 
 ---
@@ -20,33 +22,25 @@
     </a>
 </div>
 
-
 ### 📫 Like to meet me?
-
-> [!TIP]
-> Click on one of the badges on top, and text me. I'll be happy to talk to you)
-
+Click on one of the badges on top, and text me. I'll be happy to talk to you)
 
 ### 👻 A little more about me...  
-
 ```javascript
-const DIMFLIX_SKILLS = {
+const DIMFLIX = {
     OS: ["Windows 11", "Arch Linux"],
     languages: ["Python", "JavaScript", "SQL"],
-    technologies: {
-        backend: ["Django", "Flask", "aiohttp", "FastApi"],
-        GUI: ["PyQT5 | PyQT6", "Pyside2 | Pyside6"],
-        bots: ["aiogram", "pyrogram"],
-        devOps: ["Docker🐳", "Nginx", "Ngrok"],
-        databases: {
-            "PostgreSQL": ["asyncpg", "psycopg2"],
-            "MongoDB": ["pymongo"],
-            "SQLite": ["aiosqlite", "sqlite3"]
+    programming: {
+        backend: ["Django", "FastApi", "aiohttp", "Flask"],
+        frontend: ["HTML", "CSS", "JS", "TypeScript", "VueJS"],
+        databases: ["PostgreSQL", "MongoDB", "SQLite", "MySQL"],
+        web-scraping: ["requests", "BeautifulSoup4", "Selenium"],
+        bots: ["aiogram", "pyrogram", "vkbottle"],
+        devOps: ["Docker", "Nginx", "Ngrok"],
+        GUI: {
+            Desktop: ["PyQT6", "Pyside6"],
+            Mobile: ["Ionic", "Capacitor", "AndroidJS", "Tauri"]
         },
-        misc: [
-            "asyncio", "BeautifulSoup", "vk_api",
-            "selenium", "open-cv"
-        ]
     },
     UI/UX: ["Photoshop", "Illustrator", "XD", "Figma"],
     WhatICan: [
@@ -59,10 +53,6 @@ const DIMFLIX_SKILLS = {
     ],
 };
 ```
-
-<!--https://github-readme-stats.vercel.app/api/wakatime?username=dimflix&theme=transparent&title_color=5acbe9&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact-->
-
-
 
 ### Statistic
 <img height="300px" alt="DIMFLIX's Top Languages WakaTime" src="https://camo.githubusercontent.com/25388f4c32fa5cf79dd1f19cfa61703786240e18074f507711d2291bbbf704d2/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f77616b6174696d653f757365726e616d653d64696d666c6978267468656d653d7472616e73706172656e74267469746c655f636f6c6f723d35616362653926636f6c6f723d45334533453326746578745f636f6c6f723d44454445444526686964655f626f726465723d7472756526746578745f626f6c643d74727565266c61796f75743d636f6d70616374" /><br>
