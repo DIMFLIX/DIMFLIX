@@ -1,4 +1,4 @@
-<img align='center' src="https://tenor.com/ru/view/what-did-you-say-mochi-mochi-peach-cat-cute-twitching-ears-wagging-tail-gif-16908893" alt='Hi'/>
+<img align='center' src="https://github.com/DIMFLIX-OFFICIAL/DIMFLIX-OFFICIAL/blob/main/cat.gif?raw=true" alt='Hi'/>
 
 <h1> Greetings, wanderer! I'm DIMFLIX!</h1>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="270">
