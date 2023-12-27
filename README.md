@@ -1,7 +1,11 @@
 <div align="center">
     <img align='center' width=300 src="https://github.com/DIMFLIX-OFFICIAL/DIMFLIX-OFFICIAL/blob/main/cat.gif?raw=true"/>    
-    <h1 align="center"> Greetings, wanderer! I'm DIMFLIX!</h1>
-    ----
+    <h2 align="center"> Greetings, wanderer! I'm DIMFLIX!</h2>
+</div>
+
+---
+
+<div align="center">
     <a href="https://t.me/dimflix_official">
         <img src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9" alt="Telegram"/>
     </a>
@@ -19,7 +23,8 @@
 
 ### 📫 Like to meet me?
 
-Click on one of the badges on top, and text me. I'll be happy to talk to you)
+> [!TIP]
+> Click on one of the badges on top, and text me. I'll be happy to talk to you)
 
 
 ### 👻 A little more about me...  
