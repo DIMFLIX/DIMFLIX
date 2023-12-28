@@ -3,6 +3,7 @@
     <br/>
     <br/>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=BD73F7&center=true&vCenter=true&random=false&width=500&height=22&lines=Greetings%2C+wanderer!+I'm+DIMFLIX!" alt="Typing SVG" /></a>
+    <br/>
 </div>
 
 <div align="center">
