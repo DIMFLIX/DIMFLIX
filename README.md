@@ -61,4 +61,4 @@ const DIMFLIX = {
 </div>
 
 ### 📊 Statistic
-<img height="300px" alt="DIMFLIX's Top Languages WakaTime" src="https://camo.githubusercontent.com/25388f4c32fa5cf79dd1f19cfa61703786240e18074f507711d2291bbbf704d2/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f77616b6174696d653f757365726e616d653d64696d666c6978267468656d653d7472616e73706172656e74267469746c655f636f6c6f723d35616362653926636f6c6f723d45334533453326746578745f636f6c6f723d44454445444526686964655f626f726465723d7472756526746578745f626f6c643d74727565266c61796f75743d636f6d70616374" /><br>
+<img height="300px" alt="DIMFLIX's Top Languages WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=DIMFLIX&theme=transparent&title_color=5acbe9&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact" /><br>
