@@ -50,11 +50,15 @@ const DIMFLIX = {
 };
 ```
 ### 🏆 Diplomas and awards
-<img src="Diploms/москва.png" width=200 alt="Москва, Цифровой прорыв"/>
-<img src="https://github.com/DIMFLIX-OFFICIAL/DIMFLIX-OFFICIAL/assets/112165977/c8e0c4a6-3c5d-4434-b31e-0cc25a1df4cd" width=200 alt="Хабаровск, Цифровой прорыв"/>
-<img src="https://github.com/DIMFLIX-OFFICIAL/DIMFLIX-OFFICIAL/assets/112165977/57792f61-dcbb-4b4d-9c41-7ce5950c30e3" width=200 alt="ДФО, Цифровой прорыв"/>
-<img src="https://github.com/DIMFLIX-OFFICIAL/DIMFLIX-OFFICIAL/assets/112165977/87e008f4-3912-4295-a672-193b6f1c9639" width=200 alt="Нижний Новгород, Цифровой прорыв"/>
-
+<div align='center'>
+    <img src="https://github.com/DIMFLIX-OFFICIAL/DIMFLIX-OFFICIAL/blob/main/Diploms/Международный%20ВШЭ.png" width=200 alt="Высшая Школа Экономики Международный хакатон"/>
+    <img src="https://github.com/DIMFLIX-OFFICIAL/DIMFLIX-OFFICIAL/blob/main/Diploms/Диплом%20Минина.png" width=200 alt="MininCode Диплом"/>
+    <img src="https://github.com/DIMFLIX-OFFICIAL/DIMFLIX-OFFICIAL/blob/main/Diploms/Сертификат%20Минина.png" width=200 alt="MininCode сертификат"/>
+    <img src="https://github.com/DIMFLIX-OFFICIAL/DIMFLIX-OFFICIAL/blob/main/Diploms/москва.png" width=200 alt="Москва, Цифровой прорыв"/>
+    <img src="https://github.com/DIMFLIX-OFFICIAL/DIMFLIX-OFFICIAL/blob/main/Diploms/хабаровск.png" width=200 alt="Хабаровск, Цифровой прорыв"/>
+    <img src="https://github.com/DIMFLIX-OFFICIAL/DIMFLIX-OFFICIAL/blob/main/Diploms/окружной.png" width=200 alt="ДФО, Цифровой прорыв"/>
+    <img src="https://github.com/DIMFLIX-OFFICIAL/DIMFLIX-OFFICIAL/blob/main/Diploms/всероссийский.png" width=200 alt="Нижний Новгород, Цифровой прорыв"/>
+</div>
 
 ### 📊 Statistic
 <img height="300px" alt="DIMFLIX's Top Languages WakaTime" src="https://camo.githubusercontent.com/25388f4c32fa5cf79dd1f19cfa61703786240e18074f507711d2291bbbf704d2/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f77616b6174696d653f757365726e616d653d64696d666c6978267468656d653d7472616e73706172656e74267469746c655f636f6c6f723d35616362653926636f6c6f723d45334533453326746578745f636f6c6f723d44454445444526686964655f626f726465723d7472756526746578745f626f6c643d74727565266c61796f75743d636f6d70616374" /><br>
