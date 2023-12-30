@@ -50,7 +50,7 @@ const DIMFLIX = {
 };
 ```
 ### 🏆 Diplomas and awards
-<img src="https://github.com/DIMFLIX-OFFICIAL/DIMFLIX-OFFICIAL/assets/112165977/03016dda-316b-402c-82c2-9ad3c8c499d2" width=200 alt="Москва, Цифровой прорыв"/>
+<img src="Diploms/москва.png" width=200 alt="Москва, Цифровой прорыв"/>
 <img src="https://github.com/DIMFLIX-OFFICIAL/DIMFLIX-OFFICIAL/assets/112165977/c8e0c4a6-3c5d-4434-b31e-0cc25a1df4cd" width=200 alt="Хабаровск, Цифровой прорыв"/>
 <img src="https://github.com/DIMFLIX-OFFICIAL/DIMFLIX-OFFICIAL/assets/112165977/57792f61-dcbb-4b4d-9c41-7ce5950c30e3" width=200 alt="ДФО, Цифровой прорыв"/>
 <img src="https://github.com/DIMFLIX-OFFICIAL/DIMFLIX-OFFICIAL/assets/112165977/87e008f4-3912-4295-a672-193b6f1c9639" width=200 alt="Нижний Новгород, Цифровой прорыв"/>
