@@ -30,7 +30,7 @@ const DIMFLIX = {
         backend: ["Django", "FastApi", "aiohttp", "Flask"],
         frontend: ["HTML", "CSS", "JS", "TypeScript", "VueJS"],
         databases: ["PostgreSQL", "MongoDB", "SQLite", "MySQL"],
-        web-scraping: ["requests", "BeautifulSoup4", "Selenium"],
+        web-scraping: ["aiohttp", "requests", "BeautifulSoup4", "Selenium"],
         bots: ["aiogram", "pyrogram", "vkbottle"],
         devOps: ["Docker", "Nginx", "Ngrok"],
         GUI: {
