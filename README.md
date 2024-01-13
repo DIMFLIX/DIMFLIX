@@ -58,6 +58,9 @@ const DIMFLIX = {
     <img src="https://github.com/DIMFLIX-OFFICIAL/DIMFLIX-OFFICIAL/blob/main/Diploms/хабаровск.png" width=200 alt="Хабаровск, Цифровой прорыв"/>
     <img src="https://github.com/DIMFLIX-OFFICIAL/DIMFLIX-OFFICIAL/blob/main/Diploms/окружной.png" width=200 alt="ДФО, Цифровой прорыв"/>
     <img src="https://github.com/DIMFLIX-OFFICIAL/DIMFLIX-OFFICIAL/blob/main/Diploms/всероссийский.png" width=200 alt="Нижний Новгород, Цифровой прорыв"/>
+    <img src="https://github.com/DIMFLIX-OFFICIAL/DIMFLIX-OFFICIAL/blob/main/Diploms/траектория будущего python.png" width=200 alt="траектория будущего python.png"/>
+    <img src="https://github.com/DIMFLIX-OFFICIAL/DIMFLIX-OFFICIAL/blob/main/Diploms/траектория будущего грфический дизайн.png" width=200 alt="траектория будущего грфический дизайн.png"/>
+    <img src="https://github.com/DIMFLIX-OFFICIAL/DIMFLIX-OFFICIAL/blob/main/Diploms/траектория будущего финансовая грамотность.png" width=200 alt="траектория будущего финансовая грамотность.png"/>
 </div>
 
 ### 📊 Statistic
