@@ -59,6 +59,8 @@ const DIMFLIX = {
     <img src="https://github.com/DIMFLIX-OFFICIAL/DIMFLIX-OFFICIAL/blob/main/Diploms/всероссийский.png" width=200 alt="Нижний Новгород, Цифровой прорыв"/>
     <img src="https://github.com/DIMFLIX-OFFICIAL/DIMFLIX-OFFICIAL/blob/main/Diploms/траектория будущего python.png" width=200 alt="траектория будущего python"/>
     <img src="https://github.com/DIMFLIX-OFFICIAL/DIMFLIX-OFFICIAL/blob/main/Diploms/траектория будущего мобильная разработка.png" width=200 alt="траектория будущего мобильная разработка"/>
+    <img src="https://github.com/DIMFLIX-OFFICIAL/DIMFLIX-OFFICIAL/blob/main/Diploms/траектория будущего кибербезопасность.png" width=200 alt="траектория будущего devops"/>
+    <img src="https://github.com/DIMFLIX-OFFICIAL/DIMFLIX-OFFICIAL/blob/main/Diploms/траектория будущего кибербезопасность.png" width=200 alt="траектория будущего нейросетевое искусство"/>
     <img src="https://github.com/DIMFLIX-OFFICIAL/DIMFLIX-OFFICIAL/blob/main/Diploms/траектория будущего кибербезопасность.png" width=200 alt="траектория будущего кибербезопасность"/>
     <img src="https://github.com/DIMFLIX-OFFICIAL/DIMFLIX-OFFICIAL/blob/main/Diploms/траектория будущего грфический дизайн.png" width=200 alt="траектория будущего графический дизайн"/>
     <img src="https://github.com/DIMFLIX-OFFICIAL/DIMFLIX-OFFICIAL/blob/main/Diploms/траектория будущего финансовая грамотность.png" width=200 alt="траектория будущего финансовая грамотность"/>
