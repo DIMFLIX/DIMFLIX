@@ -26,7 +26,7 @@
 const DIMFLIX = {
     OS: ["Windows 11", "Arch Linux"],
     languages: ["Python", "JavaScript", "SQL"],
-    learning languages: ["TypeScript", "Rust"]
+    learning languages: ["TypeScript", "Rust"],
     programming: {
         backend: ["Django", "FastApi", "aiohttp", "Flask"],
         frontend: ["HTML", "CSS", "JS", "TypeScript", "VueJS"],
