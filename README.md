@@ -26,27 +26,26 @@
 const DIMFLIX = {
     OS: ["Windows 11", "Arch Linux"],
     languages: ["Python", "JavaScript", "SQL"],
-    learning languages: ["TypeScript", "Rust"],
+    learning languages: ["TypeScript", "Rust", "Java"],
     programming: {
         backend: ["Django", "FastApi", "aiohttp", "Flask"],
-        frontend: ["HTML", "CSS", "JS", "TypeScript", "VueJS"],
-        databases: ["PostgreSQL", "MongoDB", "SQLite", "MySQL"],
+        frontend: ["HTML", "CSS", "Sass", "JS", "TypeScript", "Vue"],
+        databases: ["PostgreSQL", "MySQL", "SQLite", "MongoDB"],
         web-scraping: ["aiohttp", "requests", "BeautifulSoup4", "Selenium"],
         bots: ["aiogram", "pyrogram", "vkbottle"],
         devOps: ["Docker", "Nginx", "Ngrok"],
         GUI: {
             Desktop: ["PyQT6", "Pyside6", "Tauri"],
-            Mobile: ["Ionic", "Capacitor", "AndroidJS", "Tauri"]
+            Mobile: ["Ionic + Capacitor + Vue", "AndroidJS", "Tauri"]
         },
     },
     UI/UX: ["Photoshop", "Illustrator", "XD", "Figma"],
     WhatICan: [
-        "building beautiful interfaces",
-        "building and managing the application architecture",
-        "Desktop or web application development",
-        "Project design",
-        "Setting up and operating servers",
-        "Data Analysis"
+        "Developing UI/UX designs, logos and banners",
+        "Creating Desktop/Mobile/Web applications with beautiful UI's",
+        "Development of database architectures, as well as complex applications"
+        "Server setup and operation, environment customization",
+        "Data analysis"
     ],
 };
 ```
