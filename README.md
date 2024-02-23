@@ -49,6 +49,58 @@ const DIMFLIX = {
     ],
 };
 ```
+
+```rust
+struct Dimflix {
+    os: Vec<String>,
+    languages: Vec<String>,
+    learning_languages: Vec<String>,
+    programming: Programming,
+    ui_ux: Vec<String>,
+    what_i_can: Vec<String>,
+}
+
+struct Programming {
+    backend: Vec<String>,
+    frontend: Vec<String>,
+    databases: Vec<String>,
+    web_scraping: Vec<String>,
+    bots: Vec<String>,
+    dev_ops: Vec<String>,
+    gui: Gui,
+}
+
+struct Gui {
+    desktop: Vec<String>,
+    mobile: Vec<String>,
+}
+
+let dimflix = Dimflix {
+    os: vec!["Windows 11".to_string(), "Arch Linux".to_string()],
+    languages: vec!["Python".to_string(), "JavaScript".to_string(), "SQL".to_string()],
+    learning_languages: vec!["TypeScript".to_string(), "Rust".to_string(), "Java".to_string()],
+    programming: Programming {
+        backend: vec!["Django".to_string(), "FastApi".to_string(), "aiohttp".to_string(), "Flask".to_string()],
+        frontend: vec!["HTML".to_string(), "CSS".to_string(), "Sass".to_string(), "JS".to_string(), "TypeScript".to_string(), "Vue".to_string()],
+        databases: vec!["PostgreSQL".to_string(), "MySQL".to_string(), "SQLite".to_string(), "MongoDB".to_string()],
+        web_scraping: vec!["aiohttp".to_string(), "requests".to_string(), "BeautifulSoup4".to_string(), "Selenium".to_string()],
+        bots: vec!["aiogram".to_string(), "pyrogram".to_string(), "vkbottle".to_string()],
+        dev_ops: vec!["Docker".to_string(), "Nginx".to_string(), "Ngrok".to_string()],
+        gui: Gui {
+            desktop: vec!["PyQT6".to_string(), "Pyside6".to_string(), "Tauri".to_string()],
+            mobile: vec!["Ionic + Capacitor + Vue".to_string(), "AndroidJS".to_string(), "Tauri".to_string()],
+        },
+    },
+    ui_ux: vec!["Photoshop".to_string(), "Illustrator".to_string(), "XD".to_string(), "Figma".to_string()],
+    what_i_can: vec![
+        "Developing UI/UX designs, logos and banners".to_string(),
+        "Creating Desktop/Mobile/Web applications with beautiful UI's".to_string(),
+        "Development of database architectures, as well as complex applications".to_string(),
+        "Server setup and operation, environment customization".to_string(),
+        "Data analysis".to_string(),
+    ],
+};
+```
 ### 🏆 Diplomas and awards
 <div align='center'>
     <img src="https://github.com/DIMFLIX-OFFICIAL/DIMFLIX-OFFICIAL/blob/main/Diploms/Атомик%20Хак.png" width=200 alt="Атомик Хак сертификат"/>
