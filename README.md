@@ -22,84 +22,58 @@
 </div>
 
 ### 👻 A little more about me...  
-```javascript
-const DIMFLIX = {
-    OS: ["Windows 11", "Arch Linux"],
-    languages: ["Python", "JavaScript", "SQL"],
-    learning languages: ["TypeScript", "Rust", "Java"],
-    programming: {
-        backend: ["Django", "FastApi", "aiohttp", "Flask"],
-        frontend: ["HTML", "CSS", "Sass", "JS", "TypeScript", "Vue"],
-        databases: ["PostgreSQL", "MySQL", "SQLite", "MongoDB"],
-        web-scraping: ["aiohttp", "requests", "BeautifulSoup4", "Selenium"],
-        bots: ["aiogram", "pyrogram", "vkbottle"],
-        devOps: ["Docker", "Nginx", "Ngrok"],
-        GUI: {
-            Desktop: ["PyQT6", "Pyside6", "Tauri"],
-            Mobile: ["Ionic + Capacitor + Vue", "AndroidJS", "Tauri"]
-        },
-    },
-    UI/UX: ["Photoshop", "Illustrator", "XD", "Figma"],
-    WhatICan: [
-        "Developing UI/UX designs, logos and banners",
-        "Creating Desktop/Mobile/Web applications with beautiful UI's",
-        "Development of database architectures, as well as complex applications"
-        "Server setup and operation, environment customization",
-        "Data analysis"
-    ],
-};
-```
-
 ```rust
-struct Dimflix {
-    os: Vec<String>,
-    languages: Vec<String>,
-    learning_languages: Vec<String>,
+pub struct Dimflix {
+    os: Vec<&'static str>,
+    languages: Vec<&'static str>,
+    learning_languages: Vec<&'static str>,
     programming: Programming,
-    ui_ux: Vec<String>,
-    what_i_can: Vec<String>,
+    ui_ux: Vec<&'static str>,
+    what_i_can: Vec<&'static str>,
 }
 
-struct Programming {
-    backend: Vec<String>,
-    frontend: Vec<String>,
-    databases: Vec<String>,
-    web_scraping: Vec<String>,
-    bots: Vec<String>,
-    dev_ops: Vec<String>,
+pub struct Programming {
+    backend: Vec<&'static str>,
+    frontend: Vec<&'static str>,
+    databases: Vec<&'static str>,
+    web_scraping: Vec<&'static str>,
+    bots: Vec<&'static str>,
+    dev_ops: Vec<&'static str>,
     gui: Gui,
 }
 
-struct Gui {
-    desktop: Vec<String>,
-    mobile: Vec<String>,
+pub struct Gui {
+    desktop: Vec<&'static str>,
+    mobile: Vec<&'static str>,
 }
 
-let dimflix = Dimflix {
-    os: vec!["Windows 11".to_string(), "Arch Linux".to_string()],
-    languages: vec!["Python".to_string(), "JavaScript".to_string(), "SQL".to_string()],
-    learning_languages: vec!["TypeScript".to_string(), "Rust".to_string(), "Java".to_string()],
-    programming: Programming {
-        backend: vec!["Django".to_string(), "FastApi".to_string(), "aiohttp".to_string(), "Flask".to_string()],
-        frontend: vec!["HTML".to_string(), "CSS".to_string(), "Sass".to_string(), "JS".to_string(), "TypeScript".to_string(), "Vue".to_string()],
-        databases: vec!["PostgreSQL".to_string(), "MySQL".to_string(), "SQLite".to_string(), "MongoDB".to_string()],
-        web_scraping: vec!["aiohttp".to_string(), "requests".to_string(), "BeautifulSoup4".to_string(), "Selenium".to_string()],
-        bots: vec!["aiogram".to_string(), "pyrogram".to_string(), "vkbottle".to_string()],
-        dev_ops: vec!["Docker".to_string(), "Nginx".to_string(), "Ngrok".to_string()],
-        gui: Gui {
-            desktop: vec!["PyQT6".to_string(), "Pyside6".to_string(), "Tauri".to_string()],
-            mobile: vec!["Ionic + Capacitor + Vue".to_string(), "AndroidJS".to_string(), "Tauri".to_string()],
+pub fn dimflix() -> Dimflix {
+    Dimflix {
+        os: vec!["Windows 11", "Arch Linux"],
+        languages: vec!["Python", "JavaScript", "SQL"],
+        learning_languages: vec!["TypeScript", "Rust", "Java"],
+        programming: Programming {
+            backend: vec!["Django", "FastApi", "aiohttp", "Flask"],
+            frontend: vec!["HTML", "CSS", "Sass", "JS", "TypeScript", "Vue"],
+            databases: vec!["PostgreSQL", "MySQL", "SQLite", "MongoDB"],
+            web_scraping: vec!["aiohttp", "requests", "BeautifulSoup4", "Selenium"],
+            bots: vec!["aiogram", "pyrogram", "vkbottle"],
+            dev_ops: vec!["Docker", "Nginx", "Ngrok"],
+            gui: Gui {
+                desktop: vec!["PyQT6", "Pyside6", "Tauri"],
+                mobile: vec!["Ionic + Capacitor + Vue", "AndroidJS", "Tauri"],
+            },
         },
-    },
-    ui_ux: vec!["Photoshop".to_string(), "Illustrator".to_string(), "XD".to_string(), "Figma".to_string()],
-    what_i_can: vec![
-        "Developing UI/UX designs, logos and banners".to_string(),
-        "Creating Desktop/Mobile/Web applications with beautiful UI's".to_string(),
-        "Development of database architectures, as well as complex applications".to_string(),
-        "Server setup and operation, environment customization".to_string(),
-        "Data analysis".to_string(),
-    ],
-};
+        ui_ux: vec!["Photoshop", "Illustrator", "XD", "Figma"],
+        what_i_can: vec![
+            "Developing UI/UX designs, logos and banners",
+            "Creating Desktop/Mobile/Web applications with beautiful UI's",
+            "Development of database architectures, as well as complex applications",
+            "Server setup and operation, environment customization",
+            "Data analysis",
+        ],
+    }
+}
 ```
 ### 🏆 Diplomas and awards
 <div align='center'>
