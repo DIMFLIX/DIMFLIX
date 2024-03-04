@@ -21,6 +21,18 @@
     </a>
 </div>
 
+<div align="center">
+    <a href="https://github.com/DIMFLIX-Designs">
+        <img src="https://img.shields.io/badge/-DIMFLIX Designs-090909?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Github Organization"/>
+    </a>
+    <a href="https://github.com/DIMFLIX-HACKATONS">
+        <img src="https://img.shields.io/badge/-DIMFLIX Hackatons-090909?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Github Organization"/>
+    </a>
+    <a href="https://github.com/Aiogram-Templates">
+        <img src="https://img.shields.io/badge/-DIMFLIX Aiogram Templates-090909?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Github Organization"/>
+    </a>
+</div>
+
 ### 👻 A little more about me...  
 ```rust
 pub struct Dimflix {
