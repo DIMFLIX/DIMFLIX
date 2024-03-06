@@ -34,58 +34,32 @@
 </div>
 
 ### 👻 A little more about me...  
-```rust
-pub struct Dimflix {
-    os: Vec<&'static str>,
-    languages: Vec<&'static str>,
-    learning_languages: Vec<&'static str>,
-    programming: Programming,
-    ui_ux: Vec<&'static str>,
-    what_i_can: Vec<&'static str>,
-}
-
-pub struct Programming {
-    backend: Vec<&'static str>,
-    frontend: Vec<&'static str>,
-    databases: Vec<&'static str>,
-    web_scraping: Vec<&'static str>,
-    bots: Vec<&'static str>,
-    dev_ops: Vec<&'static str>,
-    gui: Gui,
-}
-
-pub struct Gui {
-    desktop: Vec<&'static str>,
-    mobile: Vec<&'static str>,
-}
-
-pub fn dimflix() -> Dimflix {
-    Dimflix {
-        os: vec!["Windows 11", "Arch Linux"],
-        languages: vec!["Python", "JavaScript", "SQL"],
-        learning_languages: vec!["TypeScript", "Rust", "Java"],
-        programming: Programming {
-            backend: vec!["Django", "FastApi", "aiohttp", "Flask"],
-            frontend: vec!["HTML", "CSS", "Sass", "JS", "TypeScript", "Vue"],
-            databases: vec!["PostgreSQL", "MySQL", "SQLite", "MongoDB"],
-            web_scraping: vec!["aiohttp", "requests", "BeautifulSoup4", "Selenium"],
-            bots: vec!["aiogram", "pyrogram", "vkbottle"],
-            dev_ops: vec!["Docker", "Nginx", "Ngrok"],
-            gui: Gui {
-                desktop: vec!["PyQT6", "Pyside6", "Tauri"],
-                mobile: vec!["Ionic + Capacitor + Vue", "AndroidJS", "Tauri"],
-            },
+```javascript
+const DIMFLIX = {
+    OS: ["Windows 11", "Arch Linux"],
+    languages: ["Python", "JavaScript", "SQL"],
+    learning languages: ["TypeScript", "Rust", "Java"]
+    programming: {
+        backend: ["Django", "FastApi", "aiohttp", "Flask"],
+        frontend: ["HTML", "CSS", "Sass", "JS", "TypeScript", "VueJS"],
+        databases: ["PostgreSQL", "MongoDB", "SQLite", "MySQL"],
+        web-scraping: ["aiohttp", "requests", "BeautifulSoup4", "Selenium"],
+        bots: ["aiogram", "pyrogram", "vkbottle"],
+        devOps: ["Docker", "Nginx", "Ngrok"],
+        GUI: {
+            Desktop: ["PyQT6", "Pyside6", "Tauri"],
+            Mobile: ["Ionic + Capacitor + Vue", "AndroidJS", "Tauri"]
         },
-        ui_ux: vec!["Photoshop", "Illustrator", "XD", "Figma"],
-        what_i_can: vec![
-            "Developing UI/UX designs, logos and banners",
-            "Creating Desktop/Mobile/Web applications with beautiful UI's",
-            "Development of database architectures, as well as complex applications",
-            "Server setup and operation, environment customization",
-            "Data analysis",
-        ],
-    }
-}
+    },
+    UI/UX: ["Photoshop", "Illustrator", "XD", "Figma"],
+    WhatICan: [
+        "Developing UI/UX designs, logos and banners",
+        "Creating Desktop/Mobile/Web applications with beautiful UI's",
+        "Development of database architectures, as well as complex applications",
+        "Server setup and operation, environment customization",
+        "Data analysis",
+    ],
+};
 ```
 ### 🏆 Diplomas and awards
 <div align='center'>
