@@ -63,6 +63,7 @@ const DIMFLIX = {
 ```
 ### 🏆 Diplomas and awards
 <div align='center'>
+    <img src="https://github.com/DIMFLIX-OFFICIAL/DIMFLIX-OFFICIAL/blob/main/Diploms/SberGarage.png" width=200 alt="Сбер гараж сертификат"/>
     <img src="https://github.com/DIMFLIX-OFFICIAL/DIMFLIX-OFFICIAL/blob/main/Diploms/Атомик%20Хак.png" width=200 alt="Атомик Хак сертификат"/>
     <img src="https://github.com/DIMFLIX-OFFICIAL/DIMFLIX-OFFICIAL/blob/main/Diploms/Международный%20ВШЭ.png" width=200 alt="Высшая Школа Экономики Международный хакатон"/>
     <img src="https://github.com/DIMFLIX-OFFICIAL/DIMFLIX-OFFICIAL/blob/main/Diploms/Диплом%20Минина.png" width=200 alt="MininCode Диплом"/>
