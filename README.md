@@ -38,20 +38,20 @@
 const DIMFLIX = {
     OS: ["Windows 11", "Arch Linux"],
     languages: ["Python", "JavaScript", "SQL"],
-    learning languages: ["TypeScript", "Rust", "Java"]
+    learningLanguages: ["TypeScript", "Rust", "Java"],
     programming: {
         backend: ["Django", "FastApi", "aiohttp", "Flask"],
         frontend: ["HTML", "CSS", "Sass", "JS", "TypeScript", "VueJS"],
         databases: ["PostgreSQL", "MongoDB", "SQLite", "MySQL"],
-        web-scraping: ["aiohttp", "requests", "BeautifulSoup4", "Selenium"],
+        webScraping: ["aiohttp", "requests", "BeautifulSoup4", "Selenium"],
         bots: ["aiogram", "pyrogram", "vkbottle"],
         devOps: ["Docker", "Nginx", "Ngrok"],
         GUI: {
             Desktop: ["PyQT6", "Pyside6", "Tauri"],
             Mobile: ["Ionic + Capacitor + Vue", "AndroidJS", "Tauri"]
-        },
+        }
     },
-    UI/UX: ["Photoshop", "Illustrator", "XD", "Figma"],
+    UI_UX: ["Photoshop", "Illustrator", "XD", "Figma"],
     WhatICan: [
         "Developing UI/UX designs, logos and banners",
         "Creating Desktop/Mobile/Web applications with beautiful UI's",
