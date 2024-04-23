@@ -33,7 +33,7 @@
     </a>
 </div>
 
-### 👻 A little more about me...  
+### 👻 Немного обо мне...  
 ```javascript
 const DIMFLIX = {
     OS: ["Windows 11", "Arch Linux"],
@@ -61,7 +61,7 @@ const DIMFLIX = {
     ],
 };
 ```
-### 🏆 Diplomas and awards
+### 🏆 Дипломы и сертификаты
 <div align='center'>
     <img src="https://github.com/DIMFLIX-OFFICIAL/DIMFLIX-OFFICIAL/blob/main/Diploms/цифровизация во благо.png" width=200 alt="Премия МЦО «Цифровизация во благо»"/>
     <img src="https://github.com/DIMFLIX-OFFICIAL/DIMFLIX-OFFICIAL/blob/main/Diploms/it-planet postgresql.png" width=200 alt="IT-Planet PostgreSQL"/>
