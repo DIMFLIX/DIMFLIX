@@ -63,6 +63,7 @@ const DIMFLIX = {
 ```
 ### 🏆 Дипломы и сертификаты
 <div align='center'>
+    <img src="https://github.com/DIMFLIX-OFFICIAL/DIMFLIX-OFFICIAL/blob/main/Diploms/AI спорттех ITPlanet.png" width=200 alt="AI спорттех ITPlanet"/>
     <img src="https://github.com/DIMFLIX-OFFICIAL/DIMFLIX-OFFICIAL/blob/main/Diploms/цифровизация во благо.png" width=200 alt="Премия МЦО «Цифровизация во благо»"/>
     <img src="https://github.com/DIMFLIX-OFFICIAL/DIMFLIX-OFFICIAL/blob/main/Diploms/it-planet postgresql.png" width=200 alt="IT-Planet PostgreSQL"/>
     <img src="https://github.com/DIMFLIX-OFFICIAL/DIMFLIX-OFFICIAL/blob/main/Diploms/SberGarage.png" width=200 alt="Сбер гараж сертификат"/>
