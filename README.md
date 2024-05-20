@@ -36,7 +36,7 @@
 ### 👻 Немного обо мне...  
 ```javascript
 const DIMFLIX = {
-    OS: ["Windows 11", "Arch Linux"],
+    OS: ["Arch Linux"],
     languages: ["Python", "JavaScript", "SQL"],
     learningLanguages: ["TypeScript", "Rust", "Java"],
     programming: {
