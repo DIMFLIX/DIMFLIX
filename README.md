@@ -87,5 +87,7 @@ const DIMFLIX = {
     </div>
 </details>
 
-### 📊 Статистика WakaTime
-<img height="300px" alt="DIMFLIX's Top Languages WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=DIMFLIX&theme=transparent&title_color=5acbe9&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact" /><br>
+<details close>
+<summary><h3>📊 Статистика WakaTime</h3></summary>
+    <img height="300px" alt="DIMFLIX's Top Languages WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=DIMFLIX&theme=transparent&title_color=5acbe9&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact" /><br>
+</details>
