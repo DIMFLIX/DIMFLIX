@@ -47,7 +47,7 @@ const DIMFLIX = {
         bots: ["aiogram", "pyrogram", "vkbottle"],
         devOps: ["Docker", "Nginx", "Ngrok"],
         GUI: {
-            Desktop: ["PyQT6", "Pyside6", "Tauri"],
+            Desktop: ["PyQT6", "Pyside6", "Tauri", "JavaFX"],
             Mobile: ["Ionic + Capacitor + Vue", "AndroidJS", "Tauri"]
         }
     },
