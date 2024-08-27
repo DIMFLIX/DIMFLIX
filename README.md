@@ -65,7 +65,8 @@ const DIMFLIX = {
 <details open>
 <summary><h3>🏆 Дипломы и сертификаты</h3></summary>
     <div align="center">
-         <img src="https://github.com/DIMFLIX-OFFICIAL/DIMFLIX-OFFICIAL/blob/main/Diploms/it-planet ai-спорттех.png" width=200 alt="IT-Planet PostgreSQL"/>
+        <img src="https://github.com/DIMFLIX-OFFICIAL/DIMFLIX-OFFICIAL/blob/main/Diploms/it-planet-ai-спорттех-финал.png" width=200 alt="IT-Planet Спорттех Финал 3 Место"/>
+        <img src="https://github.com/DIMFLIX-OFFICIAL/DIMFLIX-OFFICIAL/blob/main/Diploms/it-planet ai-спорттех.png" width=200 alt="IT-Planet Спорттех"/>
         <img src="https://github.com/DIMFLIX-OFFICIAL/DIMFLIX-OFFICIAL/blob/main/Diploms/цифровизация во благо.png" width=200 alt="Премия МЦО «Цифровизация во благо»"/>
         <img src="https://github.com/DIMFLIX-OFFICIAL/DIMFLIX-OFFICIAL/blob/main/Diploms/it-planet postgresql.png" width=200 alt="IT-Planet PostgreSQL"/>
         <img src="https://github.com/DIMFLIX-OFFICIAL/DIMFLIX-OFFICIAL/blob/main/Diploms/SberGarage.png" width=200 alt="Сбер гараж сертификат"/>
