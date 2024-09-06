@@ -22,6 +22,9 @@
 </div>
 
 <div align="center">
+    <a href="https://github.com/meowrch">
+        <img src="https://img.shields.io/badge/-Meowrch-090909?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Github Organization"/>
+    </a>
     <a href="https://github.com/DIMFLIX-Designs">
         <img src="https://img.shields.io/badge/-Дизайны-090909?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Github Organization"/>
     </a>
@@ -63,16 +66,25 @@ const DIMFLIX = {
 ```
 
 <details open>
-<summary><h3>🏆 Дипломы и сертификаты</h3></summary>
+<summary><h3>🏆 Ключевые дипломы и награды </h3></summary>
     <div align="center">
         <img src="https://github.com/DIMFLIX-OFFICIAL/DIMFLIX-OFFICIAL/blob/main/Diploms/it-planet-ai-спорттех-финал.png" width=200 alt="IT-Planet Спорттех Финал 3 Место"/>
+        <img src="https://github.com/DIMFLIX-OFFICIAL/DIMFLIX-OFFICIAL/blob/3a63612bc035076d91f5c51bb920355008020309/Diploms/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9%20%D0%92%D0%A8%D0%AD%20-%20%D0%94%D1%80%D0%BE%D0%BD%D1%8B.jpg" width=200 alt="Международный ВШЭ - Дроны"/>
+        <img src="https://github.com/DIMFLIX-OFFICIAL/DIMFLIX-OFFICIAL/blob/main/Diploms/Международный%20ВШЭ.png" width=200 alt="Высшая Школа Экономики Международный хакатон"/>
+        <img src="https://github.com/DIMFLIX-OFFICIAL/DIMFLIX-OFFICIAL/blob/main/Diploms/Диплом%20Минина.png" width=200 alt="MininCode Диплом"/>
+        <img src="https://github.com/DIMFLIX-OFFICIAL/DIMFLIX-OFFICIAL/blob/main/Diploms/IT чкалов.png" width=200 alt="IT чкалов"/>
+    </div>
+</details>
+
+
+<details close>
+<summary><h3>🗂 Сертификаты</h3></summary>
+    <div align="center">
         <img src="https://github.com/DIMFLIX-OFFICIAL/DIMFLIX-OFFICIAL/blob/main/Diploms/it-planet ai-спорттех.png" width=200 alt="IT-Planet Спорттех"/>
         <img src="https://github.com/DIMFLIX-OFFICIAL/DIMFLIX-OFFICIAL/blob/main/Diploms/цифровизация во благо.png" width=200 alt="Премия МЦО «Цифровизация во благо»"/>
         <img src="https://github.com/DIMFLIX-OFFICIAL/DIMFLIX-OFFICIAL/blob/main/Diploms/it-planet postgresql.png" width=200 alt="IT-Planet PostgreSQL"/>
         <img src="https://github.com/DIMFLIX-OFFICIAL/DIMFLIX-OFFICIAL/blob/main/Diploms/SberGarage.png" width=200 alt="Сбер гараж сертификат"/>
         <img src="https://github.com/DIMFLIX-OFFICIAL/DIMFLIX-OFFICIAL/blob/main/Diploms/Атомик%20Хак.png" width=200 alt="Атомик Хак сертификат"/>
-        <img src="https://github.com/DIMFLIX-OFFICIAL/DIMFLIX-OFFICIAL/blob/main/Diploms/Международный%20ВШЭ.png" width=200 alt="Высшая Школа Экономики Международный хакатон"/>
-        <img src="https://github.com/DIMFLIX-OFFICIAL/DIMFLIX-OFFICIAL/blob/main/Diploms/Диплом%20Минина.png" width=200 alt="MininCode Диплом"/>
         <img src="https://github.com/DIMFLIX-OFFICIAL/DIMFLIX-OFFICIAL/blob/main/Diploms/Сертификат%20Минина.png" width=200 alt="MininCode сертификат"/>
         <img src="https://github.com/DIMFLIX-OFFICIAL/DIMFLIX-OFFICIAL/blob/main/Diploms/москва.png" width=200 alt="Москва, Цифровой прорыв"/>
         <img src="https://github.com/DIMFLIX-OFFICIAL/DIMFLIX-OFFICIAL/blob/main/Diploms/хабаровск.png" width=200 alt="Хабаровск, Цифровой прорыв"/>
@@ -84,7 +96,6 @@ const DIMFLIX = {
         <img src="https://github.com/DIMFLIX-OFFICIAL/DIMFLIX-OFFICIAL/blob/main/Diploms/траектория будущего кибербезопасность.png" width=200 alt="траектория будущего кибербезопасность"/>
         <img src="https://github.com/DIMFLIX-OFFICIAL/DIMFLIX-OFFICIAL/blob/main/Diploms/траектория будущего грфический дизайн.png" width=200 alt="траектория будущего графический дизайн"/>
         <img src="https://github.com/DIMFLIX-OFFICIAL/DIMFLIX-OFFICIAL/blob/main/Diploms/траектория будущего финансовая грамотность.png" width=200 alt="траектория будущего финансовая грамотность"/>
-        <img src="https://github.com/DIMFLIX-OFFICIAL/DIMFLIX-OFFICIAL/blob/main/Diploms/IT чкалов.png" width=200 alt="IT чкалов"/>
     </div>
 </details>
 
