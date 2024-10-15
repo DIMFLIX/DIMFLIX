@@ -38,9 +38,9 @@
 const DIMFLIX = {
     OS: ["Arch Linux"],
     languages: {
-        high-level: ["Python", "SQL"],
-        average-level: ["JavaScript"],
-        base-level: ["Rust", "C", "Java", "Typescript", "Bash"]
+        highLevel: ["Python", "SQL"],
+        averageLevel: ["JavaScript"],
+        baseLevel: ["Rust", "C", "Java", "Typescript", "Bash"]
     },
     programming: {
         backend: ["Django", "FastApi", "aiohttp", "Flask", "RabbitMQ", "PyDantic"],
