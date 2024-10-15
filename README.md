@@ -16,23 +16,20 @@
     <a href="https://vk.com/dimflix_official">
         <img src="https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3" alt="Vkontakte"/>
     </a>
-    <a href="https://www.instagram.com/dimflix_official">
-        <img src="https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E" alt="Instagram"/>
+    <a href="https://discord.com/users/505384503150116866/">
+        <img src="https://img.shields.io/badge/-Discord-090909?style=for-the-badge&logo=discord&logoColor=5F66E6" alt="Instagram"/>
     </a>
 </div>
 
 <div align="center">
+    <a href="https://dimflix-official.github.io/">
+        <img src="https://img.shields.io/badge/-My Site-090909?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Github Organization"/>
+    </a>
     <a href="https://github.com/meowrch">
         <img src="https://img.shields.io/badge/-Meowrch-090909?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Github Organization"/>
     </a>
     <a href="https://github.com/DIMFLIX-Designs">
         <img src="https://img.shields.io/badge/-Дизайны-090909?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Github Organization"/>
-    </a>
-    <a href="https://github.com/DIMFLIX-HACKATONS">
-        <img src="https://img.shields.io/badge/-Проекты с хакатонов-090909?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Github Organization"/>
-    </a>
-    <a href="https://github.com/Aiogram-Templates">
-        <img src="https://img.shields.io/badge/-Боты Aiogram-090909?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Github Organization"/>
     </a>
 </div>
 
@@ -40,18 +37,21 @@
 ```javascript
 const DIMFLIX = {
     OS: ["Arch Linux"],
-    languages: ["Python", "JavaScript", "SQL"],
-    learningLanguages: ["TypeScript", "Rust", "Java"],
+    languages: {
+        high-level: ["Python", "SQL"],
+        average-level: ["JavaScript"],
+        base-level: ["Rust", "C", "Java", "Typescript", "Bash"]
+    },
     programming: {
-        backend: ["Django", "FastApi", "aiohttp", "Flask"],
-        frontend: ["HTML", "CSS", "Sass", "JS", "TypeScript", "VueJS"],
+        backend: ["Django", "FastApi", "aiohttp", "Flask", "RabbitMQ", "PyDantic"],
+        frontend: ["HTML", "CSS", "SCSS", "VueJS"],
         databases: ["PostgreSQL", "MongoDB", "SQLite", "MySQL"],
         webScraping: ["aiohttp", "requests", "BeautifulSoup4", "Selenium"],
         bots: ["aiogram", "pyrogram", "vkbottle"],
         devOps: ["Docker", "Nginx", "Ngrok"],
         GUI: {
             Desktop: ["PyQT6", "Pyside6", "Tauri", "JavaFX"],
-            Mobile: ["Ionic + Capacitor + Vue", "AndroidJS", "Tauri"]
+            Mobile: ["Ionic + Capacitor", "AndroidJS", "Tauri"]
         }
     },
     UI_UX: ["Photoshop", "Illustrator", "XD", "Figma"],
@@ -102,7 +102,10 @@ const DIMFLIX = {
     </div>
 </details>
 
-<details close>
-<summary><h3>📊 Статистика WakaTime</h3></summary>
+<details open>
+<summary><h3>📊 Статистика | </h3> <img height="20px" src="https://visitcount.itsvg.in/api?id=DIMFLIX-OFFICIAL&label=Profile%20Views&color=12&icon=5&pretty=true" /></summary>
+    <img alt="DIMFLIX-OFFICIAL Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=DIMFLIX-OFFICIAL&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DIMFLIX-OFFICIAL&layout=compact&theme=transparent"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=DIMFLIX-OFFICIAL&show_icons=true&theme=transparent"/>
     <img height="300px" alt="DIMFLIX's Top Languages WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=DIMFLIX&theme=transparent&title_color=5acbe9&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact" /><br>
 </details>
