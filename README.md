@@ -80,6 +80,7 @@ const DIMFLIX = {
 <details close>
 <summary><h3>🗂 Сертификаты</h3></summary>
     <div align="center">
+        <img src="https://github.com/DIMFLIX-OFFICIAL/DIMFLIX-OFFICIAL/blob/main/Diploms/HR-T1.png" width=200 alt="HRSystem T1 Hackaton"/>
         <img src="https://github.com/DIMFLIX-OFFICIAL/DIMFLIX-OFFICIAL/blob/main/Diploms/ProjectSystemINNOHack.png" width=200 alt="ProjectSystem INNOHack"/>
         <img src="https://github.com/DIMFLIX-OFFICIAL/DIMFLIX-OFFICIAL/blob/main/Diploms/цп-омск.png" width=200 alt="Омск, Цифровой прорыв"/>
         <img src="https://github.com/DIMFLIX-OFFICIAL/DIMFLIX-OFFICIAL/blob/main/Diploms/it-planet ai-спорттех.png" width=200 alt="IT-Planet Спорттех"/>
