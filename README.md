@@ -21,7 +21,7 @@
 </div>
 
 <div align="center">
-    <a href="./README.ru.md">
+    <a href="./README-RU.md">
 		<img src="https://img.shields.io/badge/README-RU-blue?color=eba0ac&labelColor=1C2325&style=for-the-badge">
 	</a>
 	<a href="./README.md">
@@ -34,7 +34,6 @@
     <a href="https://github.com/DIMFLIX-Hackatons">
         <img src="./assets/hackatons.png" width=330 height=180/>
     </a>
-    <br>
     <a href="https://github.com/DIMFLIX-Designs">
         <img src="./assets/designs.png" width=330 height=180/>
     </a>
