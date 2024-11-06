@@ -31,8 +31,8 @@
 
 ## 🏢 My Organizations
 <div align="center" style="display: flex;">
-    <a href="https://github.com/DIMFLIX-Hackatons">
-        <img src="./assets/hackatons.png" width=330 height=180/>
+    <a href="https://github.com/DIMFLIX-Hackathons">
+        <img src="./assets/hackathons.png" width=330 height=180/>
     </a>
     <a href="https://github.com/DIMFLIX-Designs">
         <img src="./assets/designs.png" width=330 height=180/>
