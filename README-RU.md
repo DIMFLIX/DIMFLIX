@@ -29,6 +29,12 @@
 	</a>
 </div>
 
+<div align="center">
+    <a href="https://user-badge.committers.top/russia/DIMFLIX-OFFICIAL">
+		<img src="https://user-badge.committers.top/russia/DIMFLIX-OFFICIAL.svg">
+	</a>
+</div>
+
 ## 🏢 Мои организации
 <div align="center" style="display: flex;">
     <a href="https://github.com/DIMFLIX-Hackathons">
