@@ -30,8 +30,8 @@
 </div>
 
 <div align="center">
-    <a href="https://user-badge.committers.top/russia/DIMFLIX-OFFICIAL">
-		<img src="https://user-badge.committers.top/russia/DIMFLIX-OFFICIAL.svg">
+    <a href="https://user-badge.committers.top/russia/DIMFLIX">
+		<img src="https://user-badge.committers.top/russia/DIMFLIX.svg">
 	</a>
 </div>
 
