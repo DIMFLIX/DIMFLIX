@@ -144,7 +144,8 @@ If you would like to support me or any of my projects, you can send a donation t
 
 <details open>
 <summary><h3>📊 Statistics | </h3> <img height="20px" src="https://visitcount.itsvg.in/api?id=DIMFLIX&label=Profile%20Views&color=12&icon=5&pretty=true" /></summary>
-    <img alt="DIMFLIX-OFFICIAL Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=DIMFLIX&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" />
+    <img alt="DIMFLIX profile Trophy's" src="https://github-profile-trophy.vercel.app/?username=DIMFLIX&column=5&theme=nord&margin-w=15&margin-h=15&no-bg=true"/>
+    <img alt="DIMFLIX Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=DIMFLIX&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" />
 	<div align="center">
 	    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DIMFLIX&layout=compact&theme=transparent"/>
 	    <img src="https://github-readme-stats.vercel.app/api?username=DIMFLIX&show_icons=true&theme=transparent"/>
