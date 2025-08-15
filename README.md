@@ -101,6 +101,14 @@ If you would like to support me or any of my projects, you can send a donation t
 | **Tron**     | `TBTZ5RRMfGQQ8Vpf8i5N8DZhNxSum2rzAs`               |
 
 <details open>
+<summary><h2>🥇 Patents</h2></summary>
+    <div align="center">
+        <img src="./assets/patents/1.png" width=200 alt=""/>
+        <img src="./assets/patents/1_1.png" width=200 alt=""/>
+    </div>
+</details>
+
+<details open>
 <summary><h2>🏆 Prize places and diplomas</h2></summary>
     <div align="center">
         <img src="./assets/diploms/it-planet-ai-спорттех-финал.png" width=200 alt="IT-Planet Спорттех Финал 3 Место"/>
