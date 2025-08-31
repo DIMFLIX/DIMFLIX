@@ -49,8 +49,8 @@
     <a href="https://github.com/meowrch">
         <img src="./assets/meowrch.png" width=330 height=180/>
     </a>
-    <a href="https://github.com/Aiogram-Templates">
-        <img src="./assets/telegram-bots.png" width=330 height=180/>
+    <a href="https://github.com/DIMFLIX-EDUCATION">
+        <img src="./assets/education.png" width=330 height=180/>
     </a>
 </div>
 
