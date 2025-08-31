@@ -6,52 +6,30 @@
 </div>
 
 <div align="center">
-    <a href="https://t.me/dimflix_official">
-        <img src="https://img.shields.io/badge/-Telegram-f5e0dc?style=for-the-badge&logo=telegram&logoColor=27A0D9" alt="Telegram"/>
-    </a>
-    <a href="https://www.youtube.com/DIMFLIX">
-        <img src="https://img.shields.io/badge/-YouTube-f2cdcd?style=for-the-badge&logo=YouTube&logoColor=FF0000" alt="YouTube"/>
-    </a>
-    <a href="https://orcid.org/0009-0002-5036-3822">
-        <img src="https://img.shields.io/badge/-ORCID-f5c2e7?style=for-the-badge&logo=orcid&logoColor=4F7DB3" alt="ORCID"/>
-    </a>
-    <a href="https://www.kaggle.com/dimflix/">
-        <img src="https://img.shields.io/badge/-Kaggle-cba6f7?style=for-the-badge&logo=kaggle&logoColor=5F66E6" alt="Kaggle"/>
-    </a>
+    <a href="https://t.me/dimflix_official"><img src="https://img.shields.io/badge/-Telegram-f5e0dc?style=for-the-badge&logo=telegram&logoColor=27A0D9" alt="Telegram"/></a>
+    <a href="https://www.youtube.com/DIMFLIX"><img src="https://img.shields.io/badge/-YouTube-f2cdcd?style=for-the-badge&logo=YouTube&logoColor=FF0000" alt="YouTube"/></a>
+    <a href="https://orcid.org/0009-0002-5036-3822"><img src="https://img.shields.io/badge/-ORCID-f5c2e7?style=for-the-badge&logo=orcid&logoColor=4F7DB3" alt="ORCID"/></a>
+    <a href="https://www.kaggle.com/dimflix/"><img src="https://img.shields.io/badge/-Kaggle-cba6f7?style=for-the-badge&logo=kaggle&logoColor=5F66E6" alt="Kaggle"/></a>
 </div>
 
 <div align="center">
-    <a href="./README-RU.md">
-		<img src="https://img.shields.io/badge/README-RU-blue?color=eba0ac&labelColor=eba0ac&style=for-the-badge">
-	</a>
-	<a href="./README.md">
-		<img src="https://img.shields.io/badge/README-ENG-blue?color=fab387&labelColor=1C2325&style=for-the-badge">
-	</a>
+    <a href="./README-RU.md"><img src="https://img.shields.io/badge/README-RU-blue?color=eba0ac&labelColor=eba0ac&style=for-the-badge"></a>
+	<a href="./README.md"><img src="https://img.shields.io/badge/README-ENG-blue?color=fab387&labelColor=1C2325&style=for-the-badge"></a>
 </div>
 
 <div align="center">
-    <a href="https://user-badge.committers.top/russia/DIMFLIX">
-		<img src="https://user-badge.committers.top/russia/DIMFLIX.svg">
-	</a>
+    <a href="https://user-badge.committers.top/russia/DIMFLIX"><img src="https://user-badge.committers.top/russia/DIMFLIX.svg"></a>
 </div>
 
 ## 🏢 Мои организации
 <div align="center" style="display: flex;">
-    <a href="https://github.com/DIMFLIX-Hackathons">
-        <img src="./assets/hackathons.png" width=330 height=180/>
-    </a>
-    <a href="https://github.com/DIMFLIX-Designs">
-        <img src="./assets/designs.png" width=330 height=180/>
-    </a>
+    <a href="https://github.com/DIMFLIX-Hackathons"><img src="./assets/hackathons.png" width=330 height=180/></a>
+    <a href="https://github.com/DIMFLIX-Designs"><img src="./assets/designs.png" width=330 height=180/></a>
 </div>
 <br/>
 <div align="center" style="display: flex;">
-    <a href="https://github.com/meowrch">
-        <img src="./assets/meowrch.png" width=330 height=180/>
-    </a>
-    <a href="https://github.com/DIMFLIX-EDUCATION">
-        <img src="./assets/education.png" width=330 height=180/>
-    </a>
+    <a href="https://github.com/meowrch"><img src="./assets/meowrch.png" width=330 height=180/></a>
+    <a href="https://github.com/DIMFLIX-EDUCATION"><img src="./assets/education.png" width=330 height=180/></a>
 </div>
 
 
