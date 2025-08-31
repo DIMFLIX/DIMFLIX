@@ -12,11 +12,11 @@
     <a href="https://www.youtube.com/DIMFLIX">
         <img src="https://img.shields.io/badge/-YouTube-f2cdcd?style=for-the-badge&logo=YouTube&logoColor=FF0000" alt="YouTube"/>
     </a>
-    <a href="https://vk.com/dimflix_official">
-        <img src="https://img.shields.io/badge/-Vkontakte-f5c2e7?style=for-the-badge&logo=Vk&logoColor=4F7DB3" alt="Vkontakte"/>
+    <a href="https://orcid.org/0009-0002-5036-3822">
+        <img src="https://img.shields.io/badge/-ORCID-f5c2e7?style=for-the-badge&logo=orcid&logoColor=4F7DB3" alt="ORCID"/>
     </a>
-    <a href="https://discord.com/users/505384503150116866/">
-        <img src="https://img.shields.io/badge/-Discord-cba6f7?style=for-the-badge&logo=discord&logoColor=5F66E6" alt="Instagram"/>
+    <a href="https://www.kaggle.com/dimflix/">
+        <img src="https://img.shields.io/badge/-Kaggle-cba6f7?style=for-the-badge&logo=kaggle&logoColor=5F66E6" alt="Kaggle"/>
     </a>
 </div>
 
