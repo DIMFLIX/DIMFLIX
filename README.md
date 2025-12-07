@@ -21,25 +21,15 @@
     <a href="https://user-badge.committers.top/russia/DIMFLIX"><img src="https://user-badge.committers.top/russia/DIMFLIX.svg"></a>
 </div>
 
-## 🏢 My Organizations
-<div align="center" style="display: flex;">
-    <a href="https://github.com/DIMFLIX-Hackathons"><img src="./assets/hackathons.png" width=330 height=180/></a>
-    <a href="https://github.com/DIMFLIX-Designs"><img src="./assets/designs.png" width=330 height=180/></a>
-</div>
-<br/>
-<div align="center" style="display: flex;">
-    <a href="https://github.com/meowrch"><img src="./assets/meowrch.png" width=330 height=180/></a>
-    <a href="https://github.com/DIMFLIX-EDUCATION"><img src="./assets/education.png" width=330 height=180/></a>
-</div>
+## 👻 A little about me... 
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=DIMFLIX&data=followers,repositories,stars,commits&theme=dark)](https://github.com/Jurredr/github-widgetbox)
 
-
-## 👻 A little about me...  
 I am a **Full-Stack & Software Engineer** with a special bias towards creativity and innovation. My actions are always aimed at achieving high results and quality fulfillment of tasks. In life I am guided by self-development, I never stand still.
 
-I actively participate in hackathons and **multiple times became the winner of international competitions** (Below you can see diplomas and certificates). 
-I am also included in the **state register of persons with outstanding abilities**.
+[**Multiple times became the winner of international competitions**](#diplomas). 
+I am included in the **state register of persons with outstanding abilities**.
 
-Currently I am engaged in the development of open-source projects and periodically fulfill orders on freelancing. I specialize in creating websites, applications, bots and algorithms, and also know how to work with big data. 
+Currently I am engaged in the development of open-source projects and periodically fulfill orders on freelancing. I specialize in creating websites, applications, bots and neural networks.
 
 At the moment I am studying Rust for developing high-performance applications, as well as machine learning and neural networks.
 
@@ -68,6 +58,23 @@ const DIMFLIX = {
 };
 ```
 
+[![](./assets/website-banner.png)](https://dimflix.github.io)
+
+## 🏢 My Organizations (Clickable)
+> [!CAUTION]
+> My projects are also stored in organizations. \
+> In fact, the best projects are often stored there.
+
+<div align="center" style="display: flex;">
+    <a href="https://github.com/meowrch"><img src="./assets/meowrch.png" width=330 height=180/></a>
+    <a href="https://github.com/DIMFLIX-Hackathons"><img src="./assets/hackathons.png" width=330 height=180/></a>
+</div>
+<br/>
+<div align="center" style="display: flex;">
+    <a href="https://github.com/DIMFLIX-Designs"><img src="./assets/designs.png" width=330 height=180/></a>
+    <a href="https://github.com/DIMFLIX-EDUCATION"><img src="./assets/education.png" width=330 height=180/></a>
+</div>
+
 ## ☕ Support Me
 If you would like to support me or any of my projects, you can send a donation to the following cryptocurrency wallets:
 
@@ -79,7 +86,7 @@ If you would like to support me or any of my projects, you can send a donation t
 | **Bitcoin**  | `bc1qt5urnw7esunf0v7e9az0jhatxrdd0smem98gdn`       |
 
 <details open>
-<summary><h2>🥇 Patents</h2></summary>
+<summary><a name="patents"><a/><h2>🥇 Patents</h2></summary>
     <div align="center">
         <img src="./assets/patents/1.png" width=200 alt=""/>
         <img src="./assets/patents/1_1.png" width=200 alt=""/>
@@ -87,7 +94,7 @@ If you would like to support me or any of my projects, you can send a donation t
 </details>
 
 <details open>
-<summary><h2>🏆 Prize places and diplomas</h2></summary>
+<summary><a name="diplomas"><a/><h2>🏆 Prize places and diplomas</h2></summary>
     <div align="center">
         <img src="./assets/diploms/it-planet-ai-спорттех-финал.png" width=200 alt="IT-Planet Спорттех Финал 3 Место"/>
         <img src="./assets/diploms/Международный-ВШЭ-Дроны.jpg" width=200 alt="Международный ВШЭ - Дроны"/>
@@ -98,7 +105,7 @@ If you would like to support me or any of my projects, you can send a donation t
 </details>
 
 <details open>
-<summary><h2>⚜️ Significant certificates</h2></summary>
+<summary><a name="significant-certificates"><a/><h2>⚜️ Significant certificates</h2></summary>
 <img src="./assets/significant-certificates/пфо-цп.png" width=200 alt="Нижний Новгород, Цифровой прорыв"/>
 <img src="./assets/significant-certificates/цп-омск.png" width=200 alt="Омск, Цифровой прорыв"/>
 <img src="./assets/significant-certificates/Атомик-Хак.png" width=200 alt="Атомик Хак сертификат"/>
@@ -112,8 +119,9 @@ If you would like to support me or any of my projects, you can send a donation t
 </details>
 
 <details close>
-<summary><h2>🗂 Ordinary Certificates</h2></summary>
+<summary><a name="certificates"><a/><h2>🗂 Ordinary Certificates</h2></summary>
     <div align="center">
+        <img src="./assets/certificates/atomic-hack-3.0.jpg" width=200 alt="Atomic Hack 3.0 Hackaton"/>
         <img src="./assets/certificates/HR-T1.png" width=200 alt="HRSystem T1 Hackaton"/>
         <img src="./assets/certificates/цифровизация-во-благо.png" width=200 alt="Премия МЦО «Цифровизация во благо»"/>
         <img src="./assets/certificates/ProjectSystemINNOHack.png" width=200 alt="ProjectSystem INNOHack"/>

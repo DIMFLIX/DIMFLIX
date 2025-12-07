@@ -21,25 +21,15 @@
     <a href="https://user-badge.committers.top/russia/DIMFLIX"><img src="https://user-badge.committers.top/russia/DIMFLIX.svg"></a>
 </div>
 
-## 🏢 Мои организации
-<div align="center" style="display: flex;">
-    <a href="https://github.com/DIMFLIX-Hackathons"><img src="./assets/hackathons.png" width=330 height=180/></a>
-    <a href="https://github.com/DIMFLIX-Designs"><img src="./assets/designs.png" width=330 height=180/></a>
-</div>
-<br/>
-<div align="center" style="display: flex;">
-    <a href="https://github.com/meowrch"><img src="./assets/meowrch.png" width=330 height=180/></a>
-    <a href="https://github.com/DIMFLIX-EDUCATION"><img src="./assets/education.png" width=330 height=180/></a>
-</div>
+## 👻 Немного обо мне...
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=DIMFLIX&data=followers,repositories,stars,commits&theme=dark)](https://github.com/DIMFLIX/github-widgetbox)
 
-
-## 👻 Немного обо мне... 
 Я - **Full-Stack & Software Engineer** с особым уклоном в творчество и инновации. Мои действия всегда направлены на достижение высоких результатов и качественное исполнение поставленных задач. В жизни руководствуюсь саморазвитием, никогда не стою на месте.
 
-Активно участвую в хакатонах и **многократно становился победителем международных соревнований** (Ниже можете увидеть дипломы и сертификаты). 
-Так-же я включён в **государственный реестр лиц с выдающимися способностями**.
+[**Многократный победитель международных соревнований**](#diplomas). 
+Включён в **государственный реестр лиц с выдающимися способностями**.
 
-В настоящее время занимаюсь разработкой open-source проектов и периодически выполняю заказы на фрилансе. Специализируюсь на создании сайтов, приложений, ботов и алгоритмов, а также умею работать с большими данными. 
+В настоящее время занимаюсь разработкой open-source проектов и периодически выполняю заказы на фрилансе. Специализируюсь на создании сайтов, приложений, ботов, нейросетей.
 
 На данный момент изучаю Rust для разработки высокопроизводительных приложений, а так-же машинное обучение и нейросети.
 
@@ -68,6 +58,23 @@ const DIMFLIX = {
 };
 ```
 
+[![](./assets/website-banner.png)](https://dimflix.github.io)
+
+## 🏢 Мои организации (Кликабельно)
+> [!CAUTION]
+> Мои проекты также хранятся в организациях. \
+> На самом деле, лучшие проекты часто хранятся именно там.
+
+<div align="center" style="display: flex;">
+    <a href="https://github.com/meowrch"><img src="./assets/meowrch.png" width=330 height=180/></a>
+    <a href="https://github.com/DIMFLIX-Hackathons"><img src="./assets/hackathons.png" width=330 height=180/></a>
+</div>
+<br/>
+<div align="center" style="display: flex;">
+    <a href="https://github.com/DIMFLIX-Designs"><img src="./assets/designs.png" width=330 height=180/></a>
+    <a href="https://github.com/DIMFLIX-EDUCATION"><img src="./assets/education.png" width=330 height=180/></a>
+</div>
+
 ## ☕ Поддержать меня
 Если вы хотите поддержать меня или любой из моих проектов, вы можете отправить пожертвование на следующие криптовалютные кошельки:
 
@@ -79,7 +86,7 @@ const DIMFLIX = {
 | **Bitcoin**  | `bc1qt5urnw7esunf0v7e9az0jhatxrdd0smem98gdn`       |
 
 <details open>
-<summary><h2>🥇 Patents</h2></summary>
+<summary><a name="patents"><a/><h2>🥇 Patents</h2></summary>
     <div align="center">
         <img src="./assets/patents/1.png" width=200 alt=""/>
         <img src="./assets/patents/1_1.png" width=200 alt=""/>
@@ -87,7 +94,7 @@ const DIMFLIX = {
 </details>
 
 <details open>
-<summary><h2>🏆 Призовые места и дипломы</h2></summary>
+<summary><a name="diplomas"><a/><h2>🏆 Призовые места и дипломы</h2></summary>
     <div align="center">
         <img src="./assets/diploms/it-planet-ai-спорттех-финал.png" width=200 alt="IT-Planet Спорттех Финал 3 Место"/>
         <img src="./assets/diploms/Международный-ВШЭ-Дроны.jpg" width=200 alt="Международный ВШЭ - Дроны"/>
@@ -98,7 +105,7 @@ const DIMFLIX = {
 </details>
 
 <details open>
-<summary><h2>⚜️ Значимые сертификаты</h2></summary>
+<summary><a name="significant-certificates"><a/><h2>⚜️ Значимые сертификаты</h2></summary>
 <img src="./assets/significant-certificates/пфо-цп.png" width=200 alt="Нижний Новгород, Цифровой прорыв"/>
 <img src="./assets/significant-certificates/цп-омск.png" width=200 alt="Омск, Цифровой прорыв"/>
 <img src="./assets/significant-certificates/Атомик-Хак.png" width=200 alt="Атомик Хак сертификат"/>
@@ -112,8 +119,9 @@ const DIMFLIX = {
 </details>
 
 <details close>
-<summary><h2>🗂 Обычные сертификаты</h2></summary>
+<summary><a name="certificates"><a/><h2>🗂 Обычные сертификаты</h2></summary>
     <div align="center">
+        <img src="./assets/certificates/atomic-hack-3.0.jpg" width=200 alt="Atomic Hack 3.0 Hackaton"/>
         <img src="./assets/certificates/HR-T1.png" width=200 alt="HRSystem T1 Hackaton"/>
         <img src="./assets/certificates/цифровизация-во-благо.png" width=200 alt="Премия МЦО «Цифровизация во благо»"/>
         <img src="./assets/certificates/ProjectSystemINNOHack.png" width=200 alt="ProjectSystem INNOHack"/>
