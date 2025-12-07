@@ -12,7 +12,7 @@
     <a href="https://www.kaggle.com/dimflix/"><img src="https://img.shields.io/badge/-Kaggle-cba6f7?style=for-the-badge&logo=kaggle&logoColor=5F66E6" alt="Kaggle"/></a>
 </div>
 
-<div align="center">
+<div align="center" justify-content="space-between">
     <a href="./README-RU.md"><img src="https://img.shields.io/badge/README-RU-blue?color=eba0ac&labelColor=1C2325&style=for-the-badge"></a>
 	<a href="./README.md"><img src="https://img.shields.io/badge/README-ENG-blue?color=fab387&labelColor=fab387&style=for-the-badge"></a>
 </div>
@@ -61,19 +61,23 @@ const DIMFLIX = {
 [![](./assets/website-banner.png)](https://dimflix.github.io)
 
 ## 🏢 My Organizations (Clickable)
+
+<div align="center">
+<table>
+<tr>
+<td><a href="https://github.com/meowrch"><img src="./assets/meowrch.png" width="330" height="180"/></a></td>
+<td><a href="https://github.com/DIMFLIX-Hackathons"><img src="./assets/hackathons.png" width="330" height="180"/></a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/DIMFLIX-Designs"><img src="./assets/designs.png" width="330" height="180"/></a></td>
+<td><a href="https://github.com/DIMFLIX-EDUCATION"><img src="./assets/education.png" width="330" height="180"/></a></td>
+</tr>
+</table>
+</div>
+
 > [!CAUTION]
 > My projects are also stored in organizations. \
 > In fact, the best projects are often stored there.
-
-<div align="center" style="display: flex;">
-    <a href="https://github.com/meowrch"><img src="./assets/meowrch.png" width=330 height=180/></a>
-    <a href="https://github.com/DIMFLIX-Hackathons"><img src="./assets/hackathons.png" width=330 height=180/></a>
-</div>
-<br/>
-<div align="center" style="display: flex;">
-    <a href="https://github.com/DIMFLIX-Designs"><img src="./assets/designs.png" width=330 height=180/></a>
-    <a href="https://github.com/DIMFLIX-EDUCATION"><img src="./assets/education.png" width=330 height=180/></a>
-</div>
 
 ## ☕ Support Me
 If you would like to support me or any of my projects, you can send a donation to the following cryptocurrency wallets:

@@ -61,19 +61,23 @@ const DIMFLIX = {
 [![](./assets/website-banner.png)](https://dimflix.github.io)
 
 ## 🏢 Мои организации (Кликабельно)
+
+<div align="center">
+<table>
+<tr>
+<td><a href="https://github.com/meowrch"><img src="./assets/meowrch.png" width="330" height="180"/></a></td>
+<td><a href="https://github.com/DIMFLIX-Hackathons"><img src="./assets/hackathons.png" width="330" height="180"/></a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/DIMFLIX-Designs"><img src="./assets/designs.png" width="330" height="180"/></a></td>
+<td><a href="https://github.com/DIMFLIX-EDUCATION"><img src="./assets/education.png" width="330" height="180"/></a></td>
+</tr>
+</table>
+</div>
+
 > [!CAUTION]
 > Мои проекты также хранятся в организациях. \
 > На самом деле, лучшие проекты часто хранятся именно там.
-
-<div align="center" style="display: flex;">
-    <a href="https://github.com/meowrch"><img src="./assets/meowrch.png" width=330 height=180/></a>
-    <a href="https://github.com/DIMFLIX-Hackathons"><img src="./assets/hackathons.png" width=330 height=180/></a>
-</div>
-<br/>
-<div align="center" style="display: flex;">
-    <a href="https://github.com/DIMFLIX-Designs"><img src="./assets/designs.png" width=330 height=180/></a>
-    <a href="https://github.com/DIMFLIX-EDUCATION"><img src="./assets/education.png" width=330 height=180/></a>
-</div>
 
 ## ☕ Поддержать меня
 Если вы хотите поддержать меня или любой из моих проектов, вы можете отправить пожертвование на следующие криптовалютные кошельки:
