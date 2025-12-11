@@ -57,11 +57,6 @@ const DIMFLIX = {
     UI_UX: ["Photoshop", "Illustrator", "XD", "Figma"],
 };
 ```
-<div align="center">
-
-[![](./assets/website-banner.png)](https://dimflix.github.io)
-
-</div>
 
 ## 🏢 My Organizations (Clickable)
 

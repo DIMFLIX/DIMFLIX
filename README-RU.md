@@ -58,12 +58,6 @@ const DIMFLIX = {
 };
 ```
 
-<div align="center">
-
-[![](./assets/website-banner.png)](https://dimflix.github.io)
-
-</div>
-
 ## 🏢 Мои организации (Кликабельно)
 
 <div align="center">
